@@ -13,14 +13,14 @@
 const Rogerio = {
   pronouns: "He" | "Him",
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Recoil, React Native, Travis CI, Node, Styled-Components, Jest, Cypress],
-  architecture: ["microservices", "Clean Architecture"],
-  course: "I am doing the ReactJS, Hooks, Recoil, TDD, Clean Architecture, SOLID (with Rodrigo Manguinho) course focused on React and Typescript"
+  tools: [React, React Native, Jest],
 }
 ```
 
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerio3001&hide=html&layout=compact&theme=buefy" />
 
 <!--
+  architecture: ["microservices", "Clean Architecture"],
+  course: "I am doing the ReactJS, Hooks, Recoil, TDD, Clean Architecture, SOLID (with Rodrigo Manguinho) course focused on React and Typescript"
 **Rogerio3001/Rogerio3001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
