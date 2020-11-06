@@ -13,7 +13,7 @@
 const Rogerio = {
   pronouns: "He" | "Him",
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, React Native, Next.js, Jest],
+  tools: [React, React Native, Next, Jest],
 }
 ```
 
