@@ -5,7 +5,7 @@
 - 📫 How to reach me:  <a href="https://www.linkedin.com/in/rogerio-botelho"><img src="https://www.flaticon.com/svg/static/icons/svg/1384/1384889.svg" width="20"></img></a> 
 <a href=mailto:rogeriovinicios3001@gmail.com><img src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" width="20"></img></a> 
 
-- ⚡ Fun fact: I love Animes but hate Dragon ball
+- ⚡ Fun fact: My first language was Java
 
 </br>
 
