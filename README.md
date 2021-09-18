@@ -1,7 +1,7 @@
 ### Welcome to my Github! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 - 🔭 I’m currently working on my tech skills
-- 🌱 I’m currently learning Typescript with ReactJS
+- 🌱 I’m currently learning Typescript with React
 - 📫 How to reach me: &nbsp;
  <a href="https://www.linkedin.com/in/rogerio-botelho"><img src="https://cdn-icons-png.flaticon.com/512/124/124011.png" width="20"></img></a> &nbsp;
 <a href=mailto:rogeriovinicios3001@gmail.com><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="20"></img></a> 
