@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my tech skills
 - 🌱 I’m currently learning Typescript with ReactJS
-- 📫 How to reach me:  <a href="https://www.linkedin.com/in/rogerio-botelho"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384889.png" width="20"></img></a> 
+- 📫 How to reach me:  <a href="https://www.linkedin.com/in/rogerio-botelho"><img src="https://cdn-icons-png.flaticon.com/512/124/124011.png" width="20"></img></a> 
 <a href=mailto:rogeriovinicios3001@gmail.com><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="20"></img></a> 
 
 - ⚡ Fun fact: My first language was Java
