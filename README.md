@@ -6,8 +6,7 @@
  <a href="https://www.linkedin.com/in/rogerio-botelho"><img src="https://cdn-icons-png.flaticon.com/512/124/124011.png" width="20"></img></a> &nbsp;
 <a href=mailto:rogeriovinicios3001@gmail.com><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="20"></img></a> 
 
-- ⚡ Fun fact: My first language was Java
-
+- ⚡ Fun fact: I'am developer but i don't like coffe
 </br>
 
 ```javascript
