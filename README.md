@@ -13,7 +13,7 @@
 const Rogerio = {
   pronouns: "He" | "Him",
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, React-Native, Next, Jest, Styled-Components],
+  tools: [Angular, Jasmine, React, React-Native, Next, Jest, Styled-Components],
 }
 ```
 
@@ -22,5 +22,4 @@ const Rogerio = {
 <!--
   architecture: ["microservices", "Clean Architecture"],
   course: "I am doing the ReactJS, Hooks, Recoil, TDD, Clean Architecture, SOLID (with Rodrigo Manguinho) course focused on React and Typescript"
-**Rogerio3001/Rogerio3001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
