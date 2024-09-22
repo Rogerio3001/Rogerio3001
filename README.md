@@ -6,7 +6,7 @@
  <a href="https://www.linkedin.com/in/rogerio-botelho"><img src="https://cdn-icons-png.flaticon.com/512/124/124011.png" width="20"></img></a> &nbsp;
 <a href=mailto:rogeriovinicios3001@gmail.com><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="20"></img></a> 
 
-- ⚡ My main toolkit includes Angular, TypeScript, and everything web! I enjoy creating clean, maintainable, and efficient code—kind of like crafting a good cup of tea, it’s all about the right balance.
+- ⚡ My main toolkit includes Angular, React Native, React, TypeScript, and everything web! I enjoy creating clean, maintainable, and efficient code—kind of like crafting a good cup of tea, it’s all about the right balance.
 </br>
 
 ```javascript
