@@ -1,12 +1,12 @@
 ### Welcome to my Github! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-- 🔭 I’m currently working on my tech skills
-- 🌱 I’m currently learning Typescript with React
+- 💻 Tech Enthusias
+- 🎨 Front-end developer
 - 📫 How to reach me: &nbsp;
  <a href="https://www.linkedin.com/in/rogerio-botelho"><img src="https://cdn-icons-png.flaticon.com/512/124/124011.png" width="20"></img></a> &nbsp;
 <a href=mailto:rogeriovinicios3001@gmail.com><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="20"></img></a> 
 
-- ⚡ Fun fact: I'am developer but i don't like coffe
+- ⚡ My main toolkit includes Angular, TypeScript, and everything web! I enjoy creating clean, maintainable, and efficient code—kind of like crafting a good cup of tea, it’s all about the right balance.
 </br>
 
 ```javascript
